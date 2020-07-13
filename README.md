@@ -1,1 +1,1 @@
-
+Location based news portal.
